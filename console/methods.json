@@ -1,0 +1,11 @@
+[
+	{ "typ": 1,
+	  "rozkazy": ["wlacz_swiatlo","wylacz_swiatlo","wlacz_filtr","wylacz_filtr"]
+	},
+	{ "typ": 5,
+	  "rozkazy": ["wlacz","wylacz"]
+	},
+	{ "typ": 3,
+	  "rozkazy": ["opusc","podnies"]
+	}
+]

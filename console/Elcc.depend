@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1536242092 source:/home/kvbvs/Projekty/Elcc/main.cpp
+	<errno.h>
+	<fcntl.h>
+	<poll.h>
+	<stdio.h>
+	<unistd.h>
+	<iostream>
+	<map>
+	<vector>
+	<elcc/completion.h>
+	<elcc/editor.h>
+	<elcc/history.h>
+	"Cfg_reader.h"
+
+1536242105 /home/kvbvs/Projekty/Elcc/include/Cfg_reader.h
+	<rapidjson/document.h>
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<mosquittopp.h>
+
+1536242194 source:/home/kvbvs/Projekty/Elcc/src/Cfg_reader.cpp
+	"Cfg_reader.h"
+
